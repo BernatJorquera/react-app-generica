@@ -1,0 +1,28 @@
+{
+  "datos": [
+    {
+      "id": 1,
+      "tipo": "opcion2",
+      "propiedadBooleana": true,
+      "mensaje": "Yo voy a salir en la página principal"
+    },
+    {
+      "id": 2,
+      "tipo": "opcion1",
+      "propiedadBooleana": true,
+      "mensaje": "Y no voy a salir :("
+    },
+    {
+      "id": 3,
+      "tipo": "opcion2",
+      "propiedadBooleana": false,
+      "mensaje": "Yo también voy a salir"
+    },
+    {
+      "id": 4,
+      "tipo": "opcion2",
+      "propiedadBooleana": false,
+      "mensaje": "Yo también, pero hay un dato que no ha salido"
+    }
+  ]
+}
